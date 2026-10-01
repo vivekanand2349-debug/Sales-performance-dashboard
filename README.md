@@ -6,7 +6,7 @@ An end-to-end ETL and dashboard project built in Excel: raw, deliberately messy 
 data cleaned via Power Query, modeled with PivotTables, and visualized in an
 interactive one-page dashboard.
 
-![Dashboard Preview](Sales_Performance_Dashboard 2024-25.png)
+![Dashboard Preview](Sales_Performance_Dashboard%202024-25.png)
 
 ## Project Overview
 - **Source data:** 1,454-row raw sales export with real-world data quality issues
